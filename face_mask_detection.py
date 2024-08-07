@@ -57,7 +57,7 @@ def main_func(video_path):
             cv2.rectangle(img, (x + w + 10, y + h - bar_height), (x + w + 30, y + h), color_dict[label], -1)
 
         out.write(img)
-        cv2.imshow('LIVE', img)
+        cv2.imshow('Face Mask Detection', img)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
@@ -113,7 +113,7 @@ def main_func_camera():
 
 
         out.write(img)
-        cv2.imshow('LIVE', img)
+        cv2.imshow('Face Mask Detection', img)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
