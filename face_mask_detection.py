@@ -128,10 +128,10 @@ def open_text_file():
     if file_path:
         main_func(file_path)
 
-
+# Call the open camera function
 def open_camera():
     main_func_camera()
-
+# Use tkinter to open files
 if __name__ == "__main__":
     app = tk.Tk()
     app.geometry('600x350')
