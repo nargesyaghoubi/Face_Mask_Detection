@@ -99,3 +99,8 @@ $ pip3 install -r requirements.txt
 
  ## :eyes: License
 [MIT](https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/LICENSE)
+
+
+### Contact
+For any inquiries, please contact:
+- nargesyaghoubi2001@gmail.com
