@@ -1,8 +1,31 @@
 # Real-Time-Face-Mask-Detection
 ## A Real-Time Face Mask Detection using Convolutional Neural Networks - Python | Keras | Tensorflow | OpenCV | Tkinter
 
+### This project detects human faces and proper mask wearing in images and webcam streams.
+
 <p align="center">
   <img src="https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/Images/mask.gif" />
+</p>
+
+
+### Abstract
+
+In the post-COVID-19 era, the importance of face mask compliance remains a critical aspect of public health, particularly in crowded environments. This project presents a real-time face mask detection system developed using OpenCV, TensorFlow, and Tkinter. The system utilizes computer vision techniques to identify faces in video streams and classify them based on mask usage. Specifically, a green bounding box is drawn around individuals wearing masks, while a red bounding box indicates those without masks. This visual feedback serves to promote awareness and adherence to safety protocols. By leveraging advanced machine learning algorithms for accurate detection, our solution aims to facilitate safer public spaces and contribute to ongoing health initiatives. The user-friendly interface developed with Tkinter ensures accessibility for various users, making it an effective tool for organizations and institutions committed to maintaining health standards in a post-pandemic world.
+
+
+
+<p align="center">
+  <img src="https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/Images/withmask.png" />
+</p>
+<p align=center> 
+ With Mask
+</p>
+
+<p align="center">
+  <img src="https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/Images/withoutmask.png" />
+</p>
+<p align=center> 
+Without Mask
 </p>
 
 ## Generic Methodology
