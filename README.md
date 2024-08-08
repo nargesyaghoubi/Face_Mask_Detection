@@ -28,6 +28,14 @@ In the post-COVID-19 era, the importance of face mask compliance remains a criti
 Without Mask
 </p>
 
+
+
+## This project got the following accuracy/loss training  plots
+![](https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/Images/accuracy.png)
+##          
+![](https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/Images/loss.png)
+
+
 ## Generic Methodology
 <p align="center">
   <img src="https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/Images/block_diagram.png" />
@@ -89,4 +97,5 @@ $ source test/bin/activate
 $ pip3 install -r requirements.txt
 ```
 
- 
+ ## :eyes: License
+[MIT](https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/LICENSE)
