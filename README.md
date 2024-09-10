@@ -44,6 +44,14 @@ Without Mask
  Data Pipeline
 </p>
 
+## :file_folder: Dataset
+The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1rmuer0pxH11o-fJ8Dl9QYLpGX0iPRaZO?usp=drive_link)
+
+This dataset consists of __7553 images__ belonging to two classes:
+*	__with_mask: 3725 images__
+*	__without_mask: 3828 images__
+
+
 
 ##  🚀&nbsp; Usage:
 1. Clone the repo
@@ -53,12 +61,13 @@ $ git clone https://github.com/nargesyaghoubi/Face_Mask_Detection
 
 2. Navigate to the Repository Directory
 ```
-$ cd face-mask-detection
+$ cd face_mask_detection
 ```
 3. Install Required Libraries
 ```
 $ pip install -r requirements.txt
 ```
+
 ## :warning: TechStack/framework used
 - [OpenCV](https://opencv.org/)
 - [Keras](https://keras.io/)
@@ -66,21 +75,16 @@ $ pip install -r requirements.txt
 - [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
- 
-## :file_folder: Dataset
-The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1rmuer0pxH11o-fJ8Dl9QYLpGX0iPRaZO?usp=drive_link)
 
-This dataset consists of __7553 images__ belonging to two classes:
-*	__with_mask: 3725 images__
-*	__without_mask: 3828 images__
-  
 
 - ## :gear: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> 
+All the dependencies and required libraries are included in the file <code>requirements.txt</code>
+
 
 
  ## :eyes: License
+ 
 [MIT](https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/LICENSE)
 
 
