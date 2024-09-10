@@ -45,14 +45,20 @@ Without Mask
 </p>
 
 
-## How to use?
-1. Download the required files into a directory if your choice.
-2. Open required codes in Pycharm.  
-3. Install the dependencies as mentioned in code.
-4. Execute the code.
-5. Press 'q' to exit from real time video detection.
-6. Done
+##  🚀&nbsp; Usage:
+1. Clone the repo
+```
+$ git clone https://github.com/nargesyaghoubi/Face_Mask_Detection
+```
 
+2. Navigate to the Repository Directory
+```
+$ cd face-mask-detection
+```
+3. Install Required Libraries
+```
+$ pip install -r requirements.txt
+```
 ## :warning: TechStack/framework used
 - [OpenCV](https://opencv.org/)
 - [Keras](https://keras.io/)
@@ -73,29 +79,6 @@ This dataset consists of __7553 images__ belonging to two classes:
 
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> 
 
-## 🚀&nbsp; Installation
-1. Clone the repo
-```
-$ git clone https://github.com/nargesyaghoubi/Face_Mask_Detection
-```
-
-2. Change your directory to the cloned repo 
-```
-$ cd Face-Mask-Detection
-```
-
-3. Create a Python virtual environment named 'test' and activate it
-```
-$ virtualenv test
-```
-```
-$ source test/bin/activate
-```
-
-4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
-```
-$ pip3 install -r requirements.txt
-```
 
  ## :eyes: License
 [MIT](https://github.com/nargesyaghoubi/Face_Mask_Detection/blob/main/LICENSE)
