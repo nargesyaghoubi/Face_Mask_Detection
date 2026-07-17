@@ -92,8 +92,8 @@ All the dependencies and required libraries are included in the file <code>requi
 For any inquiries, please contact:
 - nargesyaghoubi2001@gmail.com
 
+## Links
+### Narges Yaghoubi
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-ooss.vercel.app/)
 
-### Links
-
-##### Narges Yaghoubi
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narges-yaghoubi-656a28243/)
